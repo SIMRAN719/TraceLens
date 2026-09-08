@@ -1,0 +1,11 @@
+insightface
+onnxruntime
+opencv-python
+numpy
+requests
+python-dotenv
+web3
+py-solc-x
+Pillow
+pytest
+rich
